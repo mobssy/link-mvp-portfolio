@@ -1,6 +1,6 @@
 <div align="center">
 
-# L!nk
+# L!NK
 
 **Messaging without borders. Minimal by design. Universal by nature.**
 
@@ -15,7 +15,7 @@ _A messenger that gets out of your way — and breaks language barriers while it
 
 <br/>
 
-![L!nk screenshot](Assets/main-04.png)
+![L!NK screenshot](Assets/main-04.png)
 
 </div>
 
@@ -33,7 +33,7 @@ And if you want to talk to someone who speaks a different language? You're copy-
 
 ## The Solution
 
-**L!nk** strips messaging down to what it actually is: two people talking.
+**L!NK** strips messaging down to what it actually is: two people talking.
 
 Clean interface. No noise. And one feature that changes everything — **real-time auto-translation**, inline, right below every message.
 
@@ -242,7 +242,7 @@ This source code is proprietary and confidential. Unauthorized copying, distribu
 
 <div align="center">
 
-# L!nk
+# L!NK
 
 **언어의 경계 없이. 미니멀하게 설계된. 모두를 위한 메신저.**
 
@@ -257,7 +257,7 @@ _방해받지 않는 메신저 — 그리고 언어 장벽까지 없애줍니다
 
 <br/>
 
-![L!nk screenshot](Assets/main-04.png)
+![L!NK screenshot](Assets/main-04.png)
 
 </div>
 
@@ -275,7 +275,7 @@ _방해받지 않는 메신저 — 그리고 언어 장벽까지 없애줍니다
 
 ## 해결책
 
-**L!nk** 는 메시징을 본질로 되돌립니다: 두 사람의 대화.
+**L!NK** 는 메시징을 본질로 되돌립니다: 두 사람의 대화.
 
 깔끔한 인터페이스. 불필요한 요소 없음. 그리고 모든 걸 바꾸는 기능 하나 — **실시간 자동 번역**, 메시지 바로 아래에, 인라인으로.
 
@@ -300,7 +300,7 @@ _방해받지 않는 메신저 — 그리고 언어 장벽까지 없애줍니다
 
 ---
 
-## 왜 "L!nk" 인가
+## 왜 "L!NK" 인가
 
 느낌표는 오타가 아닙니다.
 
