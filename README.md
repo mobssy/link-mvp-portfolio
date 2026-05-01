@@ -32,7 +32,7 @@ And if you want to talk to someone who speaks a different language? You're copy-
 
 ## The Solution
 
-**L!NK** strips messaging down to what it actually is: two people talking.
+**NK** strips messaging down to what it actually is: two people talking.
 
 Clean interface. No noise. And one feature that changes everything — **real-time auto-translation**, inline, right below every message.
 
@@ -57,7 +57,7 @@ Every message, automatically translated into your default language — inline, i
 
 ---
 
-## Why "L!nk"
+## Why "L!NK"
 
 The exclamation mark isn't a typo.
 
