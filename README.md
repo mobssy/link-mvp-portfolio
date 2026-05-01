@@ -32,7 +32,7 @@ And if you want to talk to someone who speaks a different language? You're copy-
 
 ## The Solution
 
-**NK** strips messaging down to what it actually is: two people talking.
+**L!NK** strips messaging down to what it actually is: two people talking.
 
 Clean interface. No noise. And one feature that changes everything — **real-time auto-translation**, inline, right below every message.
 
