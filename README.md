@@ -61,7 +61,7 @@ Every message, automatically translated into your default language — inline, i
 
 The exclamation mark isn't a typo.
 
-It's the moment of connection — the spark when two people understand each other despite speaking different languages. L!nk is built to create that moment, again and again, for anyone, anywhere.
+It's the moment of connection — the spark when two people understand each other despite speaking different languages. L!NK is built to create that moment, again and again, for anyone, anywhere.
 
 ---
 
@@ -302,7 +302,7 @@ _방해받지 않는 메신저 — 그리고 언어 장벽까지 없애줍니다
 
 느낌표는 오타가 아닙니다.
 
-그것은 연결의 순간 — 서로 다른 언어를 쓰는 두 사람이 서로를 이해하는 그 찰나입니다. L!nk는 그 순간을, 누구에게나, 어디서나, 계속 만들어내기 위해 만들어졌습니다.
+그것은 연결의 순간 — 서로 다른 언어를 쓰는 두 사람이 서로를 이해하는 그 찰나입니다. L!NK는 그 순간을, 누구에게나, 어디서나, 계속 만들어내기 위해 만들어졌습니다.
 
 ---
 
